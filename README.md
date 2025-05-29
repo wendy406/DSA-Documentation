@@ -20,5 +20,21 @@ the primary sourxce of data used here is Data Sale.csv and this is an open sourc
   2. Data Munching
      
 - SQL server ( For Querying and Analysis)
-- Power BI (for creating a report)
+- Power BI (for creating a report) [Download](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - Ms Power Point (for presentation)
+
+### Exploratory Data Analysis
+EDA involved the exploring of the Data to answer some questions about the Data such as;
+- What is the overrall sales trend
+- which product are top sellers
+- what are the products on peak sales?
+
+### Data Analysis
+
+This is where we include some basic lines of code or queries or even some of the DARTS expressions used during analysis
+
+```  SQL
+SELECT A,B,C
+WHERE A> 35
+
+```
